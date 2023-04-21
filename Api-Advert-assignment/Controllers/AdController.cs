@@ -7,5 +7,6 @@ namespace Api_Advert_assignment.Controllers
     [ApiController]
     public class AdController : ControllerBase
     {
+
     }
 }
