@@ -8,6 +8,6 @@
         public string AdType { get; set; }
         public DateTime CreatedDate { get; set; }
         public DateTime EndDate { get; set; }
-        
+        //
     }
 }
