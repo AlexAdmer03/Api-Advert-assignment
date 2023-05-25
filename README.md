@@ -1,0 +1,2 @@
+# Api-Advert-assignment
+This project is about creating a .NET WebAPI (RESTful) to manage advertisements. The API will use ASP.NET Core, and the database will be SQL Server implemented with Code First approach. The API will be RESTful and support various HTTP methods to perform different actions on the advertisements, including GET to list all ads, GET with a specific ID to retrieve a single ad, POST to create a new ad, DELETE to remove an ad, and PUT to update an ad (complete update). Correct HTTP status codes should be returned for each action.
